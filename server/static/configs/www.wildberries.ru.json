@@ -1,0 +1,12 @@
+{
+
+    "close_urls": ["/services/pravila-polzovaniya-torgovoy-ploshchadkoy"],
+
+    "start_urls": [
+        "/"
+    ],
+
+    "some_do": {
+        "check_el": []
+    }
+}

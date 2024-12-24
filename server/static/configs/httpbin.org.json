@@ -1,0 +1,23 @@
+{
+    "main_url": "https://httpbin.org",
+
+    "close_urls": [ "/license", "/popup-contacts", "#", "mailto:support@mail.com", "tel:+7(717)272-71-21", "/antiblock"],
+
+    "stub": "/src/",
+
+    "start_urls": [ 
+        "/"
+    ],
+
+    "time": {"min": 300, "max": 400},
+
+    "some_do": {
+        "check_el": [
+        ]
+    },
+
+    "some_do_mobile":{
+        "check_el": [
+        ]
+    }
+}

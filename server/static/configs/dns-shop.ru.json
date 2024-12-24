@@ -1,0 +1,20 @@
+{
+
+    "close_urls": [],
+
+    "start_urls": [
+        "/"
+    ],
+
+
+    "some_do": {
+        "check_el": []
+    },
+
+
+    "some_do_mobile":{
+        "check_el": [
+            {"el": ".adapt-menu-icon", "el1": "div[class='adapt-menu-icon']"}
+        ]
+    }
+}

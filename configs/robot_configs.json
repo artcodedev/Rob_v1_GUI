@@ -1,0 +1,37 @@
+
+{
+    "12": {
+        "in_work": true,
+        "type": "slow",
+        "experience": "newbie",
+        "visits": ["site.com", "site.com", "site.com"]
+    },
+
+    "13": {
+        "in_work": true,
+        "type": "slow",
+        "experience": "newbie",
+        "visits": ["site.com", "site.com", "site.com"]
+    },
+
+    "14": {
+        "in_work": true,
+        "type": "slow",
+        "experience": "newbie",
+        "visits": ["site.com", "site.com", "site.com"]
+    },
+
+    "15": {
+        "in_work": true,
+        "type": "slow",
+        "experience": "newbie",
+        "visits": ["site.com", "site.com", "site.com"]
+    },
+
+    "16": {
+        "in_work": true,
+        "type": "slow",
+        "experience": "newbie",
+        "visits": ["site.com", "site.com", "site.com"]
+    }
+}
