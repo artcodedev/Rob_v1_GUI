@@ -1,7 +1,6 @@
 import sys
 sys.path.insert(1, '../')
 from  Print import Print
-# from Print import Print
 import json
 import math
 from timezone import Time
